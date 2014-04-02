@@ -5,6 +5,7 @@ node_modules
 # Ignore automatically generated cruft
 *.log
 .sass-cache
+.yeopress
 
 # Ignore config
 local-config.php
