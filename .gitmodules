@@ -1,0 +1,3 @@
+[submodule "wpcms"]
+	path = wpcms
+	url = git://github.com/WordPress/WordPress.git
