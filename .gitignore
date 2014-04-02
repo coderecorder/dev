@@ -11,3 +11,44 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
+
+# As Yeoman assumes the usage of Bower and Grunt, ignore the below:
+bower_components
+node_modules
+
+# Ignore automatically generated cruft
+*.log
+.sass-cache
+.yeopress
+
+# Ignore config
+local-config.php
+wp-config.php
+
+# Operating system files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Vagrant
+.vagrant
+
+# WordPress + popular plugin generated — adapted from:
+# https://github.com/github/gitignore/blob/master/WordPress.gitignore
+sitemap.xml
+sitemap.xml.gz
+sitecontent/advanced-cache.php
+sitecontent/backup-db/
+sitecontent/backups/
+sitecontent/blogs.dir/
+sitecontent/cache/
+sitecontent/index.php
+sitecontent/plugins/index.php
+sitecontent/themes/index.php
+sitecontent/uploads/
+sitecontent/upgrade/
+sitecontent/wp-cache-config.php
+wpcms
