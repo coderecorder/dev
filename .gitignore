@@ -37,3 +37,16 @@ sitecontent/themes/index.php
 sitecontent/uploads/
 sitecontent/upgrade/
 sitecontent/wp-cache-config.php
+
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.gif
+*.mp4
+*.mpeg
+*.mp3
+*.ogg
+*.ogv
+*.avi
+*.mkv
