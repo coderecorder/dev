@@ -1,0 +1,22 @@
+{
+  "name": "Code Cecorder Theme",
+  "version": "0.1",
+  "authors": [
+    "Billy Han",
+    "Heather Song",
+    "Prae Songprasit <prae@lackofcolours.com>"
+  ],
+  "description": "A WP theme for coderecorder.com",
+  "license": "MIT",
+  "homepage": "coderecorer.com",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "modernizr": "latest",
+    "reset-scss": "latest",
+    "sass-bootstrap-compass": "latest"
+  }
+}

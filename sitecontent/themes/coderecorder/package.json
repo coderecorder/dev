@@ -1,0 +1,14 @@
+{
+  "name": "coderecorder-theme",
+  "version": "0.1",
+  "description": "A WP theme for coderecorder.com",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-connect": "latest"
+  }
+}
