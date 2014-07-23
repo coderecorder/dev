@@ -1,6 +1,2 @@
-Code Recorder Site Development
+We've moved this repo to Bitbucket
 ===
-
-This is a repository for us ex-MDS grads to make our knowledge sharing site!
-
-This is a readme message to practice pulling
